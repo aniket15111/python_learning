@@ -1,0 +1,15 @@
+# Ignore virtual environments
+bot_env/
+venv/
+.venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore config
+save_points.json
