@@ -1,0 +1,6 @@
+2025-07-07 19:33:32,149 - INFO - Starting to load numbers from file: numbers.txt
+2025-07-07 19:33:32,163 - DEBUG - Parsed number: 10.000000
+2025-07-07 19:33:32,164 - DEBUG - Parsed number: 20.000000
+2025-07-07 19:33:32,164 - WARNING - Invalid number skipped: abc
+2025-07-07 19:33:32,164 - DEBUG - Parsed number: 30.000000
+2025-07-07 19:33:32,164 - INFO - Average calculated successfully.
